@@ -1,0 +1,60 @@
+body {
+  width: 80%;
+  margin: 60px auto;
+  background: linear-gradient(
+    0.2deg,
+    rgb(51, 204, 255) 4.8%,
+    rgb(51, 102, 255) 85.5%
+  );
+}
+
+h1 {
+  color: #0a6fee;
+}
+
+img {
+  display: block;
+  width: 90%;
+  margin: 30px auto 0 auto;
+}
+
+ul {
+  list-style-type: none;
+  text-align: center;
+}
+
+.day {
+  color: #0a6fee;
+  font-weight: bolder;
+}
+
+.card {
+  margin: 30px auto;
+  border-radius: 15px;
+  border-color: #0a6fee;
+}
+
+.current-weather {
+  text-align: center;
+}
+
+.weather {
+  margin: 0 20px;
+}
+
+.container {
+  border: 1px solid #0a6fee;
+  margin: 0 auto;
+  max-width: 600px;
+  padding: 30px 60px;
+  background: #ffffff;
+  border-radius: 15px;
+}
+
+.form-control {
+  border-color: #0a6fee;
+}
+
+a {
+  text-decoration: none;
+}
